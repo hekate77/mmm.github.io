@@ -1,8 +1,0 @@
-            "/subscriptions/47aec78e-9856-408f-8100-9efa0f2110a8/resourceGroups/RG20MBSOLVERBASE100-STAGING",
-            "/subscriptions/47aec78e-9856-408f-8100-9efa0f2110a8/resourceGroups/RG20MBSOLVERBASE200-STAGING",
-            "/subscriptions/47aec78e-9856-408f-8100-9efa0f2110a8/resourceGroups/RG20MBSOLVERBASE300-STAGING",
-            "/subscriptions/db845581-4e33-4fa9-9d31-c5f676540b2d/resourceGroups/RG20CAPACITEITSPLANNERBASE100-STAGING",
-            "/subscriptions/db845581-4e33-4fa9-9d31-c5f676540b2d/resourceGroups/RG20CAPACITEITSPLANNERBASE500-STAGING",
-            "/subscriptions/26e560be-da76-4ddb-964a-ec897a3b3f54/resourceGroups/RG20DRUKTERIBASE100-STAGING",
-            "/subscriptions/26e560be-da76-4ddb-964a-ec897a3b3f54/resourceGroups/RG20DRUKTERIBASE200-STAGING",
-            "/subscriptions/26e560be-da76-4ddb-964a-ec897a3b3f54/resourceGroups/RG20DRUKTERIBASE300-STAGING",
